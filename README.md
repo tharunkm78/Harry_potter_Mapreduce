@@ -41,8 +41,7 @@ The project has two main tasks:
 3. Run all cells in the notebook.  
 4. Outputs will include:
    - Word counts for the first text file (all words).  
-   - Non-English word counts for the second text file.  
-   - Optional CSV or Excel files with results.
+   - Non-English word counts for the second text file.
 
 ---
 
